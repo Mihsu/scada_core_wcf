@@ -1,0 +1,9 @@
+﻿Sta je uopste tag?
+Razlika izmedju ulaznih i izlaznih tagova? ulazni -> izlazi?
+Sta je konfiguracija?
+Najsvezija konfiguracija?
+Sta je driver?
+Prikazivanje vrednosti ulaznih tagova? Sta je vrednost ulaznih tagova?
+"Simulation Driver kreirati kao Class Library projekat", sta je class library projekat?
+Sta je ime velicine na koju je vezan alarm?
+Definisanje alarma za velicinu u database manageru? 
